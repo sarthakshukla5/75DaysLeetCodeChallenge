@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
