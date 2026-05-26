@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
