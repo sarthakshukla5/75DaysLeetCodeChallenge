@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
@@ -143,6 +145,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
