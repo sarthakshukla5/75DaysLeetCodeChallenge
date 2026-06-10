@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
@@ -167,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
