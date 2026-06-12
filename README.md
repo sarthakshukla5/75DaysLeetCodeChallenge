@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
