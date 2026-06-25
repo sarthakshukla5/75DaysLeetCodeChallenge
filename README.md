@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
