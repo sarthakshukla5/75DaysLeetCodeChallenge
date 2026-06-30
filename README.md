@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -199,17 +200,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
