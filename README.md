@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3839-number-of-prefix-connected-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3839-number-of-prefix-connected-groups](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [3839-number-of-prefix-connected-groups](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3839-number-of-prefix-connected-groups) |
 ## Quickselect
 |  |
 | ------- |
