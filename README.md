@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
