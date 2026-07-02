@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -216,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
