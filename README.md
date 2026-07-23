@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0907-sum-of-subarray-minimums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0923-3sum-with-multiplicity](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Simulation
@@ -203,10 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Tree
 |  |
 | ------- |
