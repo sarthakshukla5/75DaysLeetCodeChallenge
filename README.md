@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
