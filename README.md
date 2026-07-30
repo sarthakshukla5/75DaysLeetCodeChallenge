@@ -214,17 +214,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakshukla5/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
